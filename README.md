@@ -1,6 +1,5 @@
 # Pedro Castro - Desenvolvedor Full Stack
 
-## Sobre Mim
 Olá! 👋 Sou Pedro Castro, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e robustas. Com experiência em desenvolvimento web, estou sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente.
 
 ### Desenvolvimento Front-end
