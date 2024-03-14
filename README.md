@@ -49,8 +49,6 @@ Sinta-se à vontade para explorar meus repositórios para ver mais projetos e co
 
 ## Entre em Contato
 
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
- - LinkedIn:(https://www.linkedin.com/in/castro0101/)
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  LinkedIn:(https://www.linkedin.com/in/castro0101/)
    
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- Gmail: pcastro9876@gmail.com
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  Gmail: pcastro9876@gmail.com
