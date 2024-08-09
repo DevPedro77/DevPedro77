@@ -1,6 +1,6 @@
 # Pedro Castro - Desenvolvedor Full Stack
 
-<h3>Olá! 👋 Sou Pedro Castro, um desenvolvedor Full Stack com ampla experiência em desenvolvimento web e mobile. Sou apaixonado por criar soluções inovadoras e robustas que possam impactar positivamente a vida das pessoas. Tenho um grande interesse em explorar novas tecnologias e metodologias para melhorar continuamente minhas habilidades e conhecimentos. Estou sempre em busca de novos desafios que me permitam crescer tanto profissionalmente quanto pessoalmente. Acredito na importância de aprender constantemente e me adapto rapidamente a novas situações, o que me permite enfrentar qualquer obstáculo com confiança e determinação.</h3>
+<h3>Olá! 👋 Sou Pedro Castro, um desenvolvedor Full Stack com ampla experiência em desenvolvimento web e mobile.</h3>
 
 ### Desenvolvimento Mobile
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
