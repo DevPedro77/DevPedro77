@@ -1,12 +1,13 @@
 <h1 align="center">Olá 👋, sou Pedro Castro</h1>
-<h3 align="center">Desenvolvedor Fullstack JavaScript com mais de 3 anos de experiência. Pilha: JavaScript, Node.js, TypeScript, React.js, React Native, MongoDB, PostgreSQL...</h3>
+<h3 align="center">Desenvolvedor Fullstack JavaScript com mais de 3 anos de experiência.
+  Stack: JavaScript, Node.js, TypeScript, React.js, React Native, MongoDB, PostgreSQL...</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=devpedro77&label=Profile%20views&color=0e75b6&style=flat" alt="devpedro77" />
 </p>
 
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Fullstack**
-- 💬 Pergunte-me sobre **React e React Native**
+- 💬 Pergunte-me sobre **React, React Native e Nodejs.**
 - 📫 Contato: **pcastro9876@gmail.com**
 
 ---
