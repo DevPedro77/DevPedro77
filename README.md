@@ -22,7 +22,7 @@
 
 ### 🌐 Conecte-se comigo:
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/castro0101" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pedro Castro LinkedIn"/>
   </a>
@@ -31,8 +31,7 @@
 ---
 
 ### 💻 Linguagens e Ferramentas
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -64,8 +63,7 @@
 Aqui estão alguns projetos que mostram minha experiência e habilidades. Confira mais em meu GitHub!
 
 - **[Projeto A](#)**: Uma aplicação web construída com React e Node.js.
-- **[Projeto B](#)**: Um app mobile com React Native, integrando com Firebase e APIs externas.
-- **[Projeto C](#)**: Um projeto fullstack com foco em escalabilidade, usando TypeScript e PostgreSQL.
+- **[Projeto B](#(https://github.com/DevPedro77/whitelabel_laddingPage))**: Um app mobile com React Native, integrando com Firebase e APIs externas.
 
 ---
 
