@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Pedro Castro</h1>
-<h3 align="center">Desenvolvedor Fullstack JavaScript com mais de 3 anos de experiência</h3>
+<h3 align="center">Desenvolvedor Fullstack JavaScript com mais de 3 anos de experiência em tecnologia</h3>
 <p align="center">
   Especializado em tecnologias modernas de desenvolvimento web e mobile.<br>
   <strong>Stack:</strong> JavaScript, Node.js, TypeScript, React.js, React Native, MongoDB, PostgreSQL...
