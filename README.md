@@ -17,13 +17,14 @@
 - 💬 Pergunte-me sobre **React, React Native, Node.js** ou **melhores práticas** para desenvolvimento em **JavaScript**.
 - 🌱 Sempre buscando aprender mais sobre **arquitetura de software** e **escalabilidade**.
 - 📫 **Contato:** [pcastro9876@gmail.com](mailto:pcastro9876@gmail.com)
+
 ---
 
 ### 🌐 Conecte-se comigo:
 
-<p align="left">
-  <a href="https://linkedin.com/in/castro0101">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pedro Castro LinkedIn"/>
+<p align="center">
+  <a href="https://linkedin.com/in/castro0101" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pedro Castro LinkedIn"/>
   </a>
 </p>
 
@@ -31,20 +32,17 @@
 
 ### 💻 Linguagens e Ferramentas
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin-right: 10px;"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="margin-right: 10px;"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -52,9 +50,11 @@
 ### 📈 Estatísticas
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpedro77&show_icons=true&locale=en&layout=compact&theme=radical" alt="Linguagens mais usadas" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=devpedro77&show_icons=true&locale=en&theme=radical" alt="Estatísticas do GitHub" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devpedro77&theme=radical" alt="Streak Stats" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpedro77&show_icons=true&locale=pt-br&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devpedro77&show_icons=true&locale=pt-br&theme=radical" alt="Estatísticas do GitHub" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpedro77&theme=radical" alt="Streak Stats" />
 </div>
 
 ---
@@ -75,4 +75,10 @@ Aqui estão alguns projetos que mostram minha experiência e habilidades. Confir
 - 🚴 Prática de esportes para manter a saúde e disposição.
 - 🎮 Jogos e tecnologia como forma de aprendizado e entretenimento.
 
+---
 
+### 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devpedro77&theme=onedark" alt="Conquistas no GitHub" />
+</p>
