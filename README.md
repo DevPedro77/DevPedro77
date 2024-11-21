@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Pedro Castro</h1>
-<h3 align="center">Desenvolvedor Fullstack JavaScript com mais de 3 anos de experiência. Stack: JavaScript, Node.js, TypeScript, React.js, React Native, MongoDB, PostgreSQL, entre outros.</h3>
+<h3 align="center">Desenvolvedor Fullstack JavaScript com mais de 3 anos de experiência na area da tecnologia. Stack: JavaScript, Node.js, TypeScript, React.js, React Native, MongoDB, PostgreSQL, entre outros.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpedro77&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="devpedro77" /> </p>
 
