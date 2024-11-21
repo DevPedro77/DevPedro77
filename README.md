@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpedro77&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="devpedro77" /> </p>
 
 - 🔭 Atualmente estou desenvolvendo um projeto **App de Finanças** 
-- 🌱 Estou aprimorando minhas habilidades em **Desenvolvimento Fullstack**
+- 🌱 Estou aprimorando minhas habilidades em **Desenvolvimento Backend**
 
 - 👯 Busco colaborar em **projetos com foco em finanças e produtividade**
 
-- 💬 Fique à vontade para me perguntar sobre **React, React Native, ou desenvolvimento Fullstack**
+- 💬 Fique à vontade para me perguntar sobre **Ambiente JavaScript**
 
 - 📫 Contato: **pcastro9876@gmail.com**
 
