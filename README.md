@@ -14,7 +14,6 @@
 - 🔭 Criador de um **App de Finanças**  
 - 🌱 Atualmente aprendendo **Desenvolvimento Backend**  
 - 🤝 Aberto a colaborações em **Landing Pages**  
-- 👨‍💻 Todos os meus projetos estão disponíveis em [GitHub](https://github.com/DevPedro77)  
 - 💬 Pergunte-me sobre **React, React Native e Node.js**  
 - 📫 Contato: **pcastro9876@gmail.com**  
 
