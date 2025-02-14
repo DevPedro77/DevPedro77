@@ -10,8 +10,7 @@
 
 ---
 
-### 🚀 Sobre Mim  
-- 🔭 Criador de um **App de Finanças**  
+### 🚀 Sobre Mim   
 - 🌱 Atualmente aprendendo **Desenvolvimento Backend**  
 - 🤝 Aberto a colaborações em **Aplicativos**  
 - 💬 Pergunte-me sobre **React, React Native e Node.js**  
