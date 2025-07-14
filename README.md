@@ -141,7 +141,7 @@
 
 <h3>💬 Quer trocar uma ideia?</h3>
 
-<p>Entre em contato via <a href="https://linkedin.com/in/castro0101" target="_blank">LinkedIn</a> ou me envie um e-mail: <strong>pcastro9876@gmail.com</strong><br/>
+<p>Entre em contato via <a href="https://www.linkedin.com/in/pedro-castro-mobile/" target="_blank">LinkedIn</a> ou me envie um e-mail: <strong>pcastro9876@gmail.com</strong><br/>
 Estou sempre aberto a networking, freelas e novas oportunidades em desenvolvimento mobile 🚀</p>
 
 <hr/>
