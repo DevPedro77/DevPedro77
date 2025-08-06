@@ -30,16 +30,7 @@
 
 <hr/>
 
-<h3>🏗️ Projetos pela <strong>Sorell</strong></h3>
 
-<ul>
-  <li>✅ Plataforma para agendamentos de barbearia com painel web (Next.js) e app mobile (React Native).</li>
-  <li>✅ Sistema de pedidos e entregas para pizzarias com backend em Node.js + Prisma.</li>
-  <li>✅ Plataforma de revenda de automóveis com Django + PostgreSQL + integração de anúncios.</li>
-  <li>✅ MVPs empresariais white-label com personalização por cliente.</li>
-</ul>
-
-<hr/>
 
 <h3>🧠 Tech Stack & Skills</h3>
 
