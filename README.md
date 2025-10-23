@@ -27,7 +27,7 @@ Desenvolvedor Fullstack com **especialização em Backend**, focado na construç
 | :---: | :--- | :--- | :--- |
 | 💳 | **Sistema de Pagamento** – Divas no Foco | Solução de pagamento própria para e-commerce, gerando **R$45k/mês** em faturamento. | [Acessar](https://desafiodivasnofoco.com) |
 | 📦 | **API SaaS White-Label** | Backend reutilizável para comércios (pizzarias, etc.), facilitando a criação rápida de serviços digitais. | [GitHub](https://github.com/DevPedro77/backend_comercio) |
-| ✂️ | **BarbePRO** (Micro-SaaS) | Plataforma de agendamento e gestão em desenvolvimento, utilizando **Node.js/Express** e arquitetura inicial de **micro-serviços**. | *Em Desenvolvimento* |
+| ✂️ | **API BarbePRO** | Plataforma de agendamento e gestão em desenvolvimento, utilizando **Node.js/Express**  [GitHub](https://github.com/DevPedro77/api-saas-barberPRO)|
 
 ---
 
@@ -63,7 +63,7 @@ Desenvolvedor Fullstack com **especialização em Backend**, focado na construç
 
 Minha dedicação está voltada para o aprofundamento em tecnologias de alta performance:
 
-- 🧠 **Arquitetura de Microserviços:** Design e implementação de sistemas desacoplados e resilientes.
+- 🧠 **Arquitetura de Microserviços:** Arquitetura de MicroServiços.
 - 🐹 **Desenvolvimento em Go (Golang):** Construção de APIs rápidas, concorrentes e eficientes.
 - 💡 **Estruturas de Dados e Algoritmos:** Otimização de código para performance e escalabilidade.
 - 🔒 **APIs Escaláveis e Seguras:** Implementação de autenticação robusta (JWT, OAuth) e práticas de segurança de dados.
